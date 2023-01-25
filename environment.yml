@@ -1,4 +1,4 @@
-name: root
+name: graphGNN
 channels:
 - soumith
 - conda-forge
